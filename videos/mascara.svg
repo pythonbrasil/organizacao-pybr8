@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1280"
+   height="720"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="mascara.svg"
+   inkscape:export-filename="/home/alvaro/projects/organizacao-pybr8/videos/mascara.png"
+   inkscape:export-xdpi="334.07001"
+   inkscape:export-ydpi="334.07001">
+  <defs
+     id="defs4">
+    <filter
+       inkscape:collect="always"
+       id="filter4137"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.3121799"
+         id="feGaussianBlur4139" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4394"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.43252913"
+         id="feGaussianBlur4396" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4394-5">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.43252913"
+         id="feGaussianBlur4396-7" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4394-5-8">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.43252913"
+         id="feGaussianBlur4396-7-31" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter4378"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.36861591"
+         id="feGaussianBlur4380" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4256-0"
+       id="linearGradient3158"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.22386914,0,0,5.0308953,-253.11475,-1110.0776)"
+       x1="-40.987671"
+       y1="234.66672"
+       x2="184.45308"
+       y2="234.66672" />
+    <linearGradient
+       id="linearGradient4256-0">
+      <stop
+         style="stop-color:#404040;stop-opacity:1;"
+         offset="0"
+         id="stop4258-2" />
+      <stop
+         style="stop-color:#2b2b2b;stop-opacity:1;"
+         offset="1"
+         id="stop4260-0" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       id="filter4402"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.28310514"
+         id="feGaussianBlur4404" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9515"
+       id="linearGradient3160"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(169.62066,314.82208)"
+       x1="55.549179"
+       y1="77.070274"
+       x2="110.14919"
+       y2="131.85291" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient9515">
+      <stop
+         style="stop-color:#387eb8;stop-opacity:1"
+         offset="0"
+         id="stop9517" />
+      <stop
+         style="stop-color:#366994;stop-opacity:1"
+         offset="1"
+         id="stop9519" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11301"
+       id="linearGradient3162"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(169.62066,314.82208)"
+       x1="89.136749"
+       y1="111.92053"
+       x2="147.77737"
+       y2="168.1012" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient11301">
+      <stop
+         style="stop-color:#ffe052;stop-opacity:1"
+         offset="0"
+         id="stop11303" />
+      <stop
+         style="stop-color:#ffc331;stop-opacity:1"
+         offset="1"
+         id="stop11305" />
+    </linearGradient>
+    <filter
+       id="filter4686"
+       inkscape:label="Drop Shadow"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood4688"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite4690"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4692"
+         stdDeviation="2"
+         result="blur" />
+      <feOffset
+         id="feOffset4694"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite4696"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter5299"
+       inkscape:label="Drop Shadow"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood5301"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite5303"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur5305"
+         stdDeviation="2"
+         result="blur" />
+      <feOffset
+         id="feOffset5307"
+         dx="5"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite5309"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter5332"
+       inkscape:label="Drop Shadow"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood5334"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite5336"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur5338"
+         stdDeviation="2"
+         result="blur" />
+      <feOffset
+         id="feOffset5340"
+         dx="5"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite5342"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter5299-0"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood5301-9"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite5303-7"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur5305-6"
+         stdDeviation="2"
+         result="blur" />
+      <feOffset
+         id="feOffset5307-3"
+         dx="5"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite5309-9"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter5434"
+       inkscape:label="Drop Shadow"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         id="feFlood5436"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite5438"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur5440"
+         stdDeviation="2"
+         result="blur" />
+      <feOffset
+         id="feOffset5442"
+         dx="5"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite5444"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4256-0"
+       id="linearGradient5580"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.22386914,0,0,5.0308953,-253.11475,-1110.0776)"
+       x1="-40.987671"
+       y1="234.66672"
+       x2="184.45308"
+       y2="234.66672" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9515"
+       id="linearGradient5582"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(169.62066,314.82208)"
+       x1="55.549179"
+       y1="77.070274"
+       x2="110.14919"
+       y2="131.85291" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11301"
+       id="linearGradient5584"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(169.62066,314.82208)"
+       x1="89.136749"
+       y1="111.92053"
+       x2="147.77737"
+       y2="168.1012" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="1039.3054"
+     inkscape:cy="317.71986"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="1022"
+     inkscape:window-x="1366"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <sodipodi:guide
+       orientation="0,1"
+       position="994,48.745959"
+       id="guide5463" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-359.10815)">
+    <rect
+       style="fill:#003c80;fill-opacity:1;stroke:none"
+       id="rect2985"
+       width="1280"
+       height="720"
+       x="0"
+       y="359.10815"
+       inkscape:export-filename="/home/alvaro/projects/organizacao-pybr8/videos/flowRoot5465-9.png"
+       inkscape:export-xdpi="87.940002"
+       inkscape:export-ydpi="87.940002" />
+    <g
+       id="g3133"
+       transform="matrix(1.2399511,0,0,1.2399511,-630.26499,-244.62254)"
+       inkscape:export-filename="/home/alvaro/projects/organizacao-pybr8/videos/flowRoot5465-9.png"
+       inkscape:export-xdpi="87.940002"
+       inkscape:export-ydpi="87.940002">
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/alvaro/python-circo-4.png"
+         transform="matrix(0.81625441,0,0,0.81625441,437.74923,501.78154)"
+         d="m 427.03806,124.26298 c 0,72.46969 -58.7483,131.21798 -131.21799,131.21798 -72.46969,0 -131.21799,-58.74829 -131.21799,-131.21798 0,-72.469696 58.7483,-131.2179895 131.21799,-131.2179895 72.46969,0 131.21799,58.7482935 131.21799,131.2179895 z"
+         sodipodi:ry="131.21799"
+         sodipodi:rx="131.21799"
+         sodipodi:cy="124.26298"
+         sodipodi:cx="295.82007"
+         id="path3049-3-2"
+         style="fill:#b4b4b4;fill-opacity:1;stroke:none;filter:url(#filter4137)"
+         sodipodi:type="arc" />
+      <g
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/alvaro/python-circo-4.png"
+         style="fill:#2d2d2d;fill-opacity:1;stroke:none;filter:url(#filter4394)"
+         id="g3927"
+         transform="translate(331.08135,410.93492)">
+        <path
+           style="fill:#2d2d2d;fill-opacity:1;stroke:none"
+           d="m 201.6875,223.5 0,0.625 8.79442,28.8125 -8.79442,25.75 0,0.4375 166.01244,0 0,-55.625 -166.01244,0 z"
+           id="rect3839-1"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#2d2d2d;fill-opacity:1;stroke:none"
+           d="m 492.0858,279.125 0,-0.625 -8.79442,-28.8125 8.79442,-25.75 0,-0.4375 -166.01244,0 0,55.625 166.01244,0 z"
+           id="rect3839-1-1"
+           inkscape:connector-curvature="0" />
+      </g>
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/alvaro/python-circo-4.png"
+         transform="matrix(-0.91974308,0.39252093,-0.39252093,-0.91974308,755.71602,773.87384)"
+         inkscape:connector-curvature="0"
+         id="rect3839-1-0"
+         d="m -38.091872,142.81725 0,0.625 8.79442,28.8125 -8.79442,25.75 0,0.4375 166.012442,0 0,-55.625 -166.012442,0 z"
+         style="fill:#242424;fill-opacity:1;stroke:none;filter:url(#filter4394-5)" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/alvaro/python-circo-4.png"
+         transform="matrix(0.91974308,0.39252093,0.39252093,-0.91974308,602.87445,774.65585)"
+         inkscape:connector-curvature="0"
+         id="rect3839-1-0-7"
+         d="m -38.091872,142.81725 0,0.625 8.79442,28.8125 -8.79442,25.75 0,0.4375 166.012442,0 0,-55.625 -166.012442,0 z"
+         style="fill:#242424;fill-opacity:1;stroke:none;filter:url(#filter4394-5-8)" />
+      <g
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/alvaro/python-circo-4.png"
+         transform="translate(593.11678,431.79998)"
+         id="g4145">
+        <path
+           sodipodi:type="arc"
+           style="fill:#e4e4e4;fill-opacity:1;stroke:none"
+           id="path3049-3"
+           sodipodi:cx="295.82007"
+           sodipodi:cy="124.26298"
+           sodipodi:rx="131.21799"
+           sodipodi:ry="131.21799"
+           d="m 427.03806,124.26298 c 0,72.46969 -58.7483,131.21798 -131.21799,131.21798 -72.46969,0 -131.21799,-58.74829 -131.21799,-131.21798 0,-72.469696 58.7483,-131.2179895 131.21799,-131.2179895 72.46969,0 131.21799,58.7482935 131.21799,131.2179895 z"
+           transform="matrix(0.81625441,0,0,0.81625441,-156.61322,67.344883)" />
+        <path
+           sodipodi:type="arc"
+           style="fill:none;stroke:#d1d1d1;stroke-width:2.22768116;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:17.82144941, 17.82144941;stroke-dashoffset:22.27681046"
+           id="path3049-6-9"
+           sodipodi:cx="295.82007"
+           sodipodi:cy="124.26298"
+           sodipodi:rx="131.21799"
+           sodipodi:ry="131.21799"
+           d="m 427.03806,124.26298 c 0,72.46969 -58.7483,131.21798 -131.21799,131.21798 -72.46969,0 -131.21799,-58.74829 -131.21799,-131.21798 0,-72.469696 58.7483,-131.2179895 131.21799,-131.2179895 72.46969,0 131.21799,58.7482935 131.21799,131.2179895 z"
+           transform="matrix(0.77363684,0,0,0.77363684,-144.00609,72.640669)" />
+      </g>
+      <g
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/alvaro/python-circo-4.png"
+         transform="translate(606.56316,431.79998)"
+         id="g4497">
+        <rect
+           style="fill:#4b4b4b;fill-opacity:1;stroke:none;filter:url(#filter4378)"
+           id="rect3839-11-8"
+           width="239.25259"
+           height="55.640137"
+           x="-48.221458"
+           y="208.6505"
+           inkscape:export-filename="/home/alvaro/python-circo-3.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <rect
+           style="fill:url(#linearGradient5580);fill-opacity:1;stroke:none;filter:url(#filter4402)"
+           id="rect3839-11-3-8"
+           width="50.469227"
+           height="232.63591"
+           x="-262.29065"
+           y="-45.811829"
+           inkscape:transform-center-x="-21.591758"
+           inkscape:transform-center-y="8.7632049"
+           inkscape:export-filename="/home/alvaro/python-circo-3.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"
+           transform="matrix(0,-1.0181305,1.0125123,0,0.32318211,-4.7554509)" />
+      </g>
+      <g
+         transform="matrix(0.99415288,0,0,0.99415288,273.39252,-70.275549)"
+         id="g4278"
+         inkscape:export-filename="/home/alvaro/Desktop/slide-pythonbrasil8-v0.1.0-beta.5.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300">
+        <g
+           id="g3011"
+           inkscape:export-filename="/home/alvaro/Desktop/pybr8/logo_pythonbrasil8.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300">
+          <text
+             sodipodi:linespacing="125%"
+             id="text2993"
+             y="753.20215"
+             x="293.42856"
+             style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2271a9;fill-opacity:1;stroke:none;font-family:Sans"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2271a9;fill-opacity:1;font-family:FluxRegular;-inkscape-font-specification:FluxRegular"
+               y="753.20215"
+               x="293.42856"
+               id="tspan2995"
+               sodipodi:role="line">python</tspan></text>
+          <text
+             sodipodi:linespacing="125%"
+             id="text2993-3"
+             y="753.20215"
+             x="400"
+             style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffd233;fill-opacity:1;stroke:none;font-family:Sans"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffd233;fill-opacity:1;font-family:FluxRegular;-inkscape-font-specification:FluxRegular"
+               y="753.20215"
+               x="400"
+               id="tspan2995-7"
+               sodipodi:role="line">brasil</tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-size:36.99233627px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2271a9;fill-opacity:1;stroke:none;font-family:Sans"
+           x="483.90802"
+           y="751.08783"
+           id="text2993-8"
+           sodipodi:linespacing="125%"
+           inkscape:export-filename="/home/alvaro/Desktop/pybr8/logo_pythonbrasil8.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             id="tspan2995-2"
+             x="483.90802"
+             y="751.08783"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#2271a9;fill-opacity:1;font-family:FluxRegular;-inkscape-font-specification:FluxRegular">[8]</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.80616831,0,0,0.80616831,460.48901,224.10708)"
+         id="g3248"
+         inkscape:export-filename="/home/alvaro/Desktop/slide-pythonbrasil8-v0.1.0-beta.5.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300">
+        <path
+           style="fill:url(#linearGradient5582);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
+           d="m 269.37066,382.29083 c -28.03173,0 -26.28125,12.15625 -26.28125,12.15625 l 0.0312,12.59375 26.75,0 0,3.78125 -37.375,0 c 0,0 -17.9375,-2.03428 -17.9375,26.25 0,28.28427 15.65625,27.28125 15.65625,27.28125 l 9.34375,0 0,-13.125 c 0,0 -0.50365,-15.65625 15.40625,-15.65625 15.9099,0 26.53125,0 26.53125,0 0,0 14.90625,0.24096 14.90625,-14.40625 0,-14.64721 0,-24.21875 0,-24.21875 0,0 2.26318,-14.65625 -27.03125,-14.65625 z m -14.75,8.46875 c 2.66143,0 4.8125,2.15107 4.8125,4.8125 0,2.66143 -2.15107,4.8125 -4.8125,4.8125 -2.66143,0 -4.8125,-2.15107 -4.8125,-4.8125 0,-2.66143 2.15107,-4.8125 4.8125,-4.8125 z"
+           id="path8615"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path8620"
+           d="m 270.16676,492.13693 c 28.03174,0 26.28125,-12.15625 26.28125,-12.15625 l -0.0312,-12.59375 -26.75,0 0,-3.78125 37.375,0 c 0,0 17.9375,2.03427 17.9375,-26.25001 10e-6,-28.28427 -15.65625,-27.28125 -15.65625,-27.28125 l -9.34375,0 0,13.125 c 0,0 0.50366,15.65625 -15.40625,15.65625 -15.9099,0 -26.53125,0 -26.53125,0 0,0 -14.90625,-0.24096 -14.90625,14.40626 0,14.6472 0,24.21875 0,24.21875 0,0 -2.26318,14.65625 27.03125,14.65625 z m 14.75,-8.46875 c -2.66143,0 -4.8125,-2.15107 -4.8125,-4.8125 0,-2.66143 2.15107,-4.8125 4.8125,-4.8125 2.66143,0 4.8125,2.15107 4.8125,4.8125 10e-6,2.66143 -2.15107,4.8125 -4.8125,4.8125 z"
+           style="fill:url(#linearGradient5584);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       id="g5455"
+       transform="translate(1.020819,19.791634)"
+       inkscape:export-filename="/home/alvaro/projects/organizacao-pybr8/videos/flowRoot5465-9.png"
+       inkscape:export-xdpi="87.940002"
+       inkscape:export-ydpi="87.940002">
+      <rect
+         ry="9.0775108"
+         y="535.11096"
+         x="607.75281"
+         height="475.45959"
+         width="635.45959"
+         id="rect5297"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter5299)" />
+      <flowRoot
+         transform="translate(-19.544739,346.65634)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot5344"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5346"><rect
+             y="375.8674"
+             x="717.64233"
+             height="174.86412"
+             width="454.6467"
+             id="rect5348" /></flowRegion><flowPara
+           style="text-align:center;text-anchor:middle"
+           id="flowPara5350">640x480</flowPara><flowPara
+           style="text-align:center;text-anchor:middle"
+           id="flowPara5352">Slides</flowPara></flowRoot>    </g>
+    <g
+       id="g5446"
+       transform="translate(75.020819,116.41297)"
+       inkscape:export-filename="/home/alvaro/projects/organizacao-pybr8/videos/flowRoot5465-9.png"
+       inkscape:export-xdpi="87.940002"
+       inkscape:export-ydpi="87.940002">
+      <rect
+         ry="9.0822401"
+         y="608.82733"
+         x="267.11295"
+         height="305.12189"
+         width="238.15887"
+         id="rect5420"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.8411243;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter5434)" />
+      <flowRoot
+         transform="translate(-166.52637,337.14074)"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         id="flowRoot5422"
+         xml:space="preserve"><flowRegion
+           id="flowRegion5424"><rect
+             y="384"
+             x="312"
+             height="232"
+             width="480"
+             id="rect5426" /></flowRegion><flowPara
+           style="font-size:32px;text-align:center;text-anchor:middle"
+           id="flowPara5428">240x320</flowPara><flowPara
+           style="font-size:32px;text-align:center;text-anchor:middle"
+           id="flowPara5432">Palestrante</flowPara><flowPara
+           style="font-size:32px;text-align:center;text-anchor:middle"
+           id="flowPara5430" /></flowRoot>    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5465"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(-52.979181,364.36219)"
+       inkscape:export-xdpi="87.940002"
+       inkscape:export-ydpi="87.940002"><flowRegion
+         id="flowRegion5467"><rect
+           id="rect5469"
+           width="310"
+           height="242"
+           x="76"
+           y="416"
+           style="fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara5471"
+         style="font-size:36px;text-align:center;text-anchor:middle">Logotipos</flowPara><flowPara
+         id="flowPara5473"
+         style="font-size:36px;text-align:center;text-anchor:middle">dos patrocinadores</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5465-9"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(311.27375,-50.589138)"
+       inkscape:export-xdpi="87.940002"
+       inkscape:export-ydpi="87.940002"><flowRegion
+         id="flowRegion5467-2"><rect
+           id="rect5469-9"
+           width="856"
+           height="170"
+           x="76"
+           y="416"
+           style="fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara5473-7"
+         style="font-size:64px;font-weight:bold;text-align:center;text-anchor:middle">Título da Palestra</flowPara><flowPara
+         style="font-size:64px;font-weight:bold;text-align:center;text-anchor:middle"
+         id="flowPara5507">Nome do Palestrante</flowPara></flowRoot>  </g>
+</svg>
